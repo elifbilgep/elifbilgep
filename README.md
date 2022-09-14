@@ -1,6 +1,6 @@
 <h1 align="left">Hi  👋, I'm Elif Bilge </h1>
 
-![giphy](https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif)
+![giphy](https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif)
 
 - 🤍 I’m currently working on my first app Self Care Reminder
 
