@@ -2,7 +2,8 @@
 
 ![giphy](https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif)
 
-- 🤍 I’m currently working on my first app Self Care Reminder
+- 🤍 I’m currently working on my first app Self Care Reminder 
+- 👉🏻 Check my app! https://apps.apple.com/tr/app/self-care-reminder/id1638343687?l=tr
 
 - 🌱 I’m currently learning **Flutter & Dart** and Swift 
 
