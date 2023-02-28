@@ -14,3 +14,5 @@
 </p>
 
 ![Elif Bilge's GitHub stats](https://github-readme-stats.vercel.app/api?username=elifbilgep&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifbilgep&hide_progress=true)](https://github.com/elifbilgep/github-readme-stats)
