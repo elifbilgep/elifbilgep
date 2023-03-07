@@ -5,7 +5,7 @@
 - 🤍 I’m currently working on my first app Self Care Reminder 
 - 👉🏻 Check my app! https://apps.apple.com/tr/app/self-care-reminder/id1638343687?l=tr
 
-- 🌱 I’m currently learning **Flutter & Dart** and Swift 
+- 🌱 I’m currently learning **Flutter & Dart** and **Swift**
 
 - ⚡ Fun fact: I have a Dash 😉
 
