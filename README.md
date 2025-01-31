@@ -12,6 +12,11 @@
 
 ![giphy](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
 
+<h2 align="left">📲 My Apps</h2>
+
+- [🌿 Skin Diary - Track Glow](https://apps.apple.com/tr/app/skin-diary-track-glow/id6612022313)
+- [🕊️ Self Care Reminder](https://apps.apple.com/tr/app/self-care-reminder/id1638343687)
+
 ###
 
 <p align="left">I am Elif, an Erasmus Intern at University of Antwerp as an iOS Developer.</p>
