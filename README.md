@@ -1,5 +1,9 @@
 <h1 align="left">Hi  👋, I'm Elif Bilge </h1>
 
+<p align="left">I am Elif, an Erasmus Intern at University of Antwerp as an iOS Developer.</p>
+
+###
+
 <a href="https://linkedin.com/in/elifbilgeparlak" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -19,9 +23,6 @@
 
 ###
 
-<p align="left">I am Elif, an Erasmus Intern at University of Antwerp as an iOS Developer.</p>
-
-###
 
 <h2 align="left">About me</h2>
 
